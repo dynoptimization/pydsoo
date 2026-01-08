@@ -28,7 +28,7 @@ pip install pydsoo
 
 ## Getting help
 
-For complete documentation of all pydmoo features, see the [User Guide]. And for help, please use the [GitHub issues].
+For complete documentation of all pydsoo features, see the [User Guide]. And for help, please use the [GitHub issues].
 
 [User Guide]: user-guide/index.md
 [GitHub issues]: https://github.com/dynoptimization/pydsoo/issues
