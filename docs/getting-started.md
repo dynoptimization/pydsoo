@@ -6,7 +6,7 @@ An introductory tutorial!
 
 ## Installation
 
-To install pydmoo, run the following command from the command line:
+To install pydsoo, run the following command from the command line:
 
 ### [uv](https://docs.astral.sh/uv/)
 
