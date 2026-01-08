@@ -1,4 +1,4 @@
-# Getting Started with pydmoo
+# Getting Started with pydsoo
 
 An introductory tutorial!
 
