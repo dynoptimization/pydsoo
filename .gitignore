@@ -1,4 +1,19 @@
+# Common ignored files and folders
+# Ignored files
 .DS_Store
+
+*.sublime-workspace
+*.code-workspace
+
+# Ignored folders
+node_modules/
+.virtual_documents/
+.ruff_cache/
+.idea/
+.vscode/
+tests_temp/
+
+# Special for this project
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
